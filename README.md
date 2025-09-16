@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Socials
+
+<p align="left"> <a href="https://discord.com/users/596263924689666048" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=discord" width="32" height="32" /></a> <a href="https://www.github.com/shypianoguy" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=github" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/devinjahr" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=linkedin" width="32" height="32" /></a></p>
